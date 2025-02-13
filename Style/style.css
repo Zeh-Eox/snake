@@ -2,7 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-} /* Petit Reset des familles :) */
+}
 
 body {
     width: 100vw;
@@ -13,4 +13,4 @@ body {
     align-items: center;
 
     background-color: #363636;
-} /* Centre le canvas */
+}
